@@ -5,8 +5,5 @@ public class helloworld {
    }
 }
 
-maven
 
-its a one of the java project type
 
-https://github.com/unixnaresh/devops-maven-example.git
